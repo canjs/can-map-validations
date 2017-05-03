@@ -1,5 +1,7 @@
 # can-map-validations
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/canjs/can-map-validations.svg)](https://greenkeeper.io/)
+
 [![Build Status](https://travis-ci.org/canjs/can-map-validations.png?branch=master)](https://travis-ci.org/canjs/can-map-validations)
 
 Validate Observe attributes
